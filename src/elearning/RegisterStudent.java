@@ -74,7 +74,7 @@ public class RegisterStudent extends javax.swing.JFrame {
 //            jSeparator2.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0)));
 
             jLabel3.setFont(new java.awt.Font("Segoe UI", 1, 16)); // NOI18N
-            jLabel3.setText("              Connexion Professeur");
+            jLabel3.setText("              Connexion Student");
 
             jButton1.setBackground(new java.awt.Color(204, 204, 204));
             jButton1.setText("Connexion");
